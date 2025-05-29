@@ -1,3 +1,6 @@
+# DISCLAIMER:
+## THIS IS NOT A OFFICIAL REPOSITORY OF MARKEDENGINE AND DOESN'T CONTAIN ANY CODE OR ASSETS FROM MARKEDENGINE.
+
 WARNING!!!!!!!!!
 
 Before anyone starts any controversy, I wanted to say that MarkedEngine uses PsychEngine/P-slice Engine.
